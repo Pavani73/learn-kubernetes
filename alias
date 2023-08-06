@@ -1,5 +1,0 @@
-alias k='kubectl'
-alias K='kubectl'
-alias ka='kubectl apply -f'
-alias KA='kubectl apply -f'
-alias kgp='kubectl get pods'
